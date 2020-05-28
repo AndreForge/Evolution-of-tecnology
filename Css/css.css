@@ -1,0 +1,38 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: darkgray;
+}
+
+li{
+    background-color:   gray;
+    color: white;
+}
+
+h1{
+    font-size: 36px;
+    color: white;
+    background-color: #6b6b6b;
+}
+
+h2{
+    font-size: 26px;
+    color: white;
+    background-color: #6b6b6b;
+}
+
+p{
+    font-size: 16px;
+    color: white;
+    background-color: #6b6b6b;
+}
+
+#firstgps{
+    width: 400px;
+}
+
+.back{
+    background-color: white;
+}
+
+
+
